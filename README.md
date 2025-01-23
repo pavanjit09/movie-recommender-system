@@ -91,5 +91,5 @@ To run this project locally, follow the steps below:
 
 ---
 
-- ## 🎥 Demo Video
+## 🎥 Demo Video
 Check out the demo video on YouTube: [Watch Here](https://youtube.com/shorts/DLDEyS2AVOE?feature=share)

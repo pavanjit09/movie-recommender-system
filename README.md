@@ -88,3 +88,8 @@ To run this project locally, follow the steps below:
 - Add user-based collaborative filtering for personalized recommendations.
 - Include advanced filtering options like genres, release year, or popularity.
 - Provide trailers or additional movie details fetched from the TMDB API.
+
+---
+
+- ## 🎥 Demo Video
+Check out the demo video on YouTube: [Watch Here](https://youtube.com/shorts/DLDEyS2AVOE?feature=share)
